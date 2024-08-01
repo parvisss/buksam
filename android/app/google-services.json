@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "320712667406",
+    "project_id": "buksam-8dabc",
+    "storage_bucket": "buksam-8dabc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320712667406:android:401d578ec7b853d876e75f",
+        "android_client_info": {
+          "package_name": "com.example.buksam_flutter_practicum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxZKjkzH5Q2g5WafwvCS5P6o_D8_5G_qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320712667406:android:62a8b17b2273580176e75f",
+        "android_client_info": {
+          "package_name": "com.example.buksam_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxZKjkzH5Q2g5WafwvCS5P6o_D8_5G_qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
